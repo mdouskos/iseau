@@ -1,4 +1,4 @@
-# iSEAu: 
+# iSEAu: Intelligent Scene Sensing and Analysis in Underwater Environments
 
 ## Goal
 iSEAu aims to significantly advance the state-of-the-art of underwater scene sensing by bridging the gap in the use of data-driven methods in underwater perception, and by combining the respective advantages of SPCs, multispectral and conventional cameras. Investing in intensive knowledge transfer, the goal is to bring together the fields of computer vision, machine learning and remote sensing for optimally addressing the underwater visual sensing challenges. 
